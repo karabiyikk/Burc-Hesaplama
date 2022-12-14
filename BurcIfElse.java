@@ -1,5 +1,3 @@
-package KosulluIfadeler;
-
 import java.util.Scanner;
 
 public class BurcIfElse {
